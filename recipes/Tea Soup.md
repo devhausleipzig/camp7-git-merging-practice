@@ -31,4 +31,4 @@
 If you like this recipe, please do share a photo of it on insta using #celebratefood 
 
 
-[Get me back to Overview](obsidian://open?vault=Class7&file=Recipes%2FOverview)
+Go back to [[Overview]]
