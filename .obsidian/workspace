@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "88eb0830b18dc506",
+    "type": "split",
+    "children": [
+      {
+        "id": "3671be2270d2dd21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Overview.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f1f34775655ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e4dd418723fbc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca8533d3dd4c4bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f2abc6dd84b2462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7bfb99e02a8906",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0de7a78b420cd0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e66b20fa1275e5eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ad25709cd8bb63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0604cb66730aca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d0afde8b7d17ce2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "663f97d0c4405b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cca8533d3dd4c4bf",
+  "lastOpenFiles": [
+    "recipes/Witches Brew.md",
+    "Overview.md",
+    "recipes/witchesBrew.md"
+  ]
+}
