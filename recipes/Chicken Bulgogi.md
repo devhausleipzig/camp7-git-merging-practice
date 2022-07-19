@@ -31,3 +31,6 @@ You like chicken? Try this!
 3. Coat the chicken pieces with the marinade. Marinate for about 30 minutes in the refrigerator.
 4. Preheat a skillet over medium high heat. Add the chicken pieces, reserving the marinade. Cook until cooked through and slightly caramelized, about 2 minutes each side. The sugar and honey in the marinade will burn easily, so watch it carefully and add the reserved marinade by tablespoon when the pan gets dry. Reduce heat if it starts to burn.
 5. Serve while warm and enjoy!
+
+
+Go back to [[Overview]]

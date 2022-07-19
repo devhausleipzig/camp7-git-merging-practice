@@ -35,3 +35,6 @@ All credit goes to the user [pandiculator](https://www.reddit.com/user/pandicula
     
 2.  Cover and cook on high for about 4 hours or on low for 8 hours, then set the lid slightly ajar and cook for a further 1 hour, or until the beef is very tender and the sauce has thickened slightly. Serve hot, garnished with basil, with the steamed rice.
 3. Enjoy!
+
+
+Go back to [[Overview]]
