@@ -1,4 +1,5 @@
-# Boiled Water Ice
+# Crispy Boiled Water Ice
+Christie: I am totally stealing this recipe.
 
 Since the existence of global warming exists only in debates on news channels, our dummies can't help but struggle with the heat wave. The perfect solution for this is to invite our guests with a 0 calorie snack! Boiled Water Ice. It is also possible to make it vegan if you use the vegan water available at any Rewe stores.
 
@@ -7,7 +8,7 @@ Since the existence of global warming exists only in debates on news channels, o
 1. A gas stove. No inductions. Inductions are for poor people.
  ![](https://i.imgur.com/fwLmQ8jg.png) <center> (read this in Uncle Roger's voice) </center>
 2.  Find a wok.
-3.  Water
+3.  H2O
 
 
 ## Instructions
