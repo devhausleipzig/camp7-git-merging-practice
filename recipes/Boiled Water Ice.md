@@ -7,7 +7,7 @@ Since the existence of global warming exists only in debates on news channels, o
 1. A gas stove. No inductions. Inductions are for poor people.
  ![](https://i.imgur.com/fwLmQ8jg.png) <center> (read this in Uncle Roger's voice) </center>
 2.  Find a wok.
-3.  Water
+3.  H2O
 
 
 ## Instructions
