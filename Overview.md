@@ -4,3 +4,5 @@ We hope you like our scrumptious recipes!
 
 ## Recipes
 [[Witches Brew]]
+[[Khayali Pulaav or Dreamy Rice]]
+[[Boiled Water Ice]]
