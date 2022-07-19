@@ -1,4 +1,4 @@
-# Boiled Water Ice
+# Boiling Water Ice
 Christie: I am totally stealing this recipe.
 
 Since the existence of global warming exists only in debates on news channels, our dummies can't help but struggle with the heat wave. The perfect solution for this is to invite our guests with a 0 calorie snack! Boiled Water Ice. It is also possible to make it vegan if you use the vegan water available at any Rewe stores.
