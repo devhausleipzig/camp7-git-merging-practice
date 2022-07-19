@@ -1,6 +1,6 @@
 #korean #sauces #bibimbap
 
-# Super Firey Dragon Breath Sauce
+# Bloody Bath Oil Recipe
 ![Gochujang bibimbap sauce in a bowl](https://mykoreankitchen.com/wp-content/uploads/2013/07/Bibimbap-Sauce.jpg)
 
 You might be confused as to why Gochujang needs its own recipe. This is not a how to make Korean curry paste from scratch. If you want to eat meals like Bibimbap *right*, you need to add a little pizazz. 
