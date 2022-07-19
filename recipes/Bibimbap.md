@@ -1,6 +1,10 @@
 #korean #bibimbap #dinner 
 
+<<<<<<< HEAD
 # Hibimbap
+=======
+# bimmibapo
+>>>>>>> bd45c4962bbeb1ae7ce996b07597107e810f63e2
 
 ![Bibimbap](images/bibimbap.png)
 
