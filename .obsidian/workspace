@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "1c2e53c274f13136",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c65e270e3c5bdae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "recipes/ChiragsBruntToast.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf8f654f1b6f1176",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cfb265535e513c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2fad1b2a80457d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc0e540b41eaf5b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1de333b7aa8a73a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e60a00c994dba8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7fe2816c3fc7a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b78081e2d10c37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/ChiragsBruntToast.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99eb3c88a27f2164",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/ChiragsBruntToast.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb9483f0b1be9b13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5b2e64e226b29a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/ChiragsBruntToast.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c65e270e3c5bdae",
+  "lastOpenFiles": [
+    "recipes/Witches Brew.md",
+    "recipes/ChiragsBruntToast.md",
+    "recipes/Untitled.md",
+    "README.md"
+  ]
+}
