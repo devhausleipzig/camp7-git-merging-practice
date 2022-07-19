@@ -24,3 +24,5 @@ You might be confused as to why Gochujang needs its own recipe. This is not a ho
 ## Steps
 1. Combine all ingredients in a bowl and mix them well.
 2. Enjoy!
+
+Go back to [[Overview]]

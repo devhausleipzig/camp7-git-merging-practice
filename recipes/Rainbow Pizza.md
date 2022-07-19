@@ -31,4 +31,4 @@
 8. *Cut into pieces and enjoy!*
 
  
-[Get me back to Overview](obsidian://open?vault=Class7&file=Recipes%2FOverview)[
+Go back to [[Overview]]

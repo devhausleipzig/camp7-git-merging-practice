@@ -34,3 +34,7 @@ Bimibap is ideal for using up leftover veggies. You can mix and match however yo
 4. Make fried eggs. (While sunny side up is common, you can make them per your preference.)
 5. Put the rice into a bowl and add the meat, assorted vegetables, seasoned seaweed, bibimbap sauce, and the egg on top of the rice. Serve.
 6. To eat,  mix the ingredients in the bowl, and enjoy!
+
+
+
+Go back to [[Overview]]
