@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "88eb0830b18dc506",
+    "id": "a387b4022b9bc7ed",
     "type": "split",
     "children": [
       {
-        "id": "3671be2270d2dd21",
+        "id": "5664233d5cdfffe3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f4f1f34775655ff3",
+    "id": "09b5a41b801c977c",
     "type": "split",
     "children": [
       {
-        "id": "37e4dd418723fbc8",
+        "id": "44ffe449722bc778",
         "type": "tabs",
         "children": [
           {
-            "id": "cca8533d3dd4c4bf",
+            "id": "fd165e262aa094a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "1f2abc6dd84b2462",
+            "id": "ea0b88af6678a925",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "4f7bfb99e02a8906",
+            "id": "34c43317e1a2d730",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "0de7a78b420cd0e6",
+    "id": "787c8a3f26efa18a",
     "type": "split",
     "children": [
       {
-        "id": "e66b20fa1275e5eb",
+        "id": "2906249713e7db7a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ad25709cd8bb63",
+            "id": "e024b62cd1347b74",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "a0604cb66730aca2",
+            "id": "46db259c64378a57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "5d0afde8b7d17ce2",
+            "id": "317729a6e1a5cd60",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "663f97d0c4405b1f",
+            "id": "0b03951643d2cc60",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cca8533d3dd4c4bf",
+  "active": "5664233d5cdfffe3",
   "lastOpenFiles": [
-    "recipes/Witches Brew.md",
+    "recipes/Boiled Water Ice.md",
     "Overview.md",
-    "recipes/witchesBrew.md"
+    "recipes/Khayali Pulaav or Dreamy Rice.md"
   ]
 }
