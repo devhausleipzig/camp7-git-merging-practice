@@ -1,6 +1,6 @@
 #korean #bibimbap #dinner 
 
-# Bibimbap
+# Hibimbap
 
 ![Bibimbap](images/bibimbap.png)
 
