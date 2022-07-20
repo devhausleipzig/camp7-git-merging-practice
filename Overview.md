@@ -6,6 +6,7 @@ We hope you like our scrumptious recipes!
 [[Witches Brew]]
 [[Khayali Pulaav or Dreamy Rice]]
 [[Boiled Water Ice]]
+[[ChiragsBruntToast]]
 [[Rainbow Pizza]]
 [[Tea Soup]]
 [[Redwine Chocolate Cake]]
